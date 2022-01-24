@@ -1,0 +1,7 @@
+Varying coding exons	Genes	Transcript pairs
+0	8342	90675
+1	345	770
+2	71	101
+3	18	25
+4	7	8
+6	2	10
